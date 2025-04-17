@@ -34,14 +34,12 @@ I created this repo to prepare for top tech companies like Amazon, focusing on *
 
 ## 📅 Weekly Progress Tracker
 
-| Week | Problems Solved | Topics Covered                     | Notes               |
-|------|------------------|-------------------------------------|---------------------|
-| 1    | XX               | Arrays, Strings, HashMap            | [Link](#week-1)     |
-| 2    | ...              | ...                                 | ...                 |
+| Week | Problems Solved                                | Topics Covered                      | Notes               |
+|------|------------------------------------------------|-------------------------------------|---------------------|
+| 1    | 303,                                           | Arrays, Strings, HashMap            | [Link](#week-1)     |
+| 2    | ...                                            | ...                                 | ...                 |
 
 ---
-
-## 🔁 Folder Structure
 
 ---
 
