@@ -1,3 +1,5 @@
+
+//303. Range Sum Query - Immutable
 class RangeSumQuery {
     int [] prefixsum; // -2,-2,1,-4,-3,-4
     public RangeSumQuery(int[] nums ) {//-2, 0, 3, -5, 2, -1  //1-4
