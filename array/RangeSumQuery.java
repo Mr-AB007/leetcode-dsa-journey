@@ -1,6 +1,6 @@
 class RangeSumQuery {
     int [] prefixsum; // -2,-2,1,-4,-3,-4
-    public NumArray(int[] nums ) {//-2, 0, 3, -5, 2, -1  //1-4
+    public RangeSumQuery(int[] nums ) {//-2, 0, 3, -5, 2, -1  //1-4
         int n = nums.length;
 
         prefixsum = new int[n];
@@ -22,7 +22,7 @@ class RangeSumQuery {
 }
 
 /**
- * Your NumArray object will be instantiated and called as such:
- * NumArray obj = new NumArray(nums);
+ * Your RangeSumQuery object will be instantiated and called as such:
+ * RangeSumQuery obj = new RangeSumQuery(nums);
  * int param_1 = obj.sumRange(left,right);
  */
